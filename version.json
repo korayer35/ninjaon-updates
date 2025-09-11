@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/korayer35/ninjaon-updates/releases/download/v1.0.0/NinjaSetup.exe",
-  "releaseDate": "2025-01-11",
-  "changelog": "İlk sürüm"
+    "releaseDate":  "2025-09-12",
+    "changelog":  "Otomatik guncelleme",
+    "version":  "1.0.0.0",
+    "downloadUrl":  "https://github.com/korayer35/ninjaon-updates/releases/download/v1.0.0.0/NinjaSetup.exe"
 }
